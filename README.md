@@ -16,4 +16,4 @@ Tus metas son mas grandes que tus miedos
 
 El exito es la suma de pequeños esfuerzos repetidos dia tras dia
 
-"La pregunta no es quién me va a dejar; es quién va a detenerme" - JessiUWU lanadelreyRifa
+"La pregunta no es quién me va a dejar; es quién va a detenerme" 
