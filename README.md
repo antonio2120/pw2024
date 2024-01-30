@@ -1,11 +1,4 @@
 # pw2024
-
-
-Tu puedes!!!!!!git status
-
-Trabaja duro y encontraras el exito!!!
-
-
-
-Al final todo estara bien y si no esta bien, no has llegado al final
-
+-----------------------------------------------------------------
+No te desanimes, cada quien fluye a su manera
+-----------------------------------------------------------------
