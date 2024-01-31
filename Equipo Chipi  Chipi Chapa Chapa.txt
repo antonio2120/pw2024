@@ -1,3 +1,11 @@
 Humberto Emmanuel RosaLes Martínez
 Alondra Rubí Valdes Mora 
 Luz Aneli Campos Gonzalez
+
+Chipi Chipi Chapa Chapa Dubi Dubi Magic Dubi
+<<<<<<< HEAD
+holi cara de bolis 
+=======
+No hay que ir para atrás ni para darse impulso.
+>>>>>>> 0c5211061000e7a667f776d65f2607788cb8e37e
+  hhhghhhh
