@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: #000000;
+}
+h2{
+    color: blue;
+}
+p{
+    color: black;
+    font-weight: 900;
+}
+li{
+    color: aqua;
+}
+img{
+    height: 300px;
+}
+.notas{
+    background-color: gray;
+    border-color: aliceblue;
+    border-style: solid;
+    
+}
