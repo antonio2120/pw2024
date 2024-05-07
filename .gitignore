@@ -1,0 +1,15 @@
+/tema4/node_modules
+/tema4/public/hot
+/tema4/public/storage
+/tema4/storage/*.key
+/tema4/vendor
+/tema4/.env
+/tema4/.env.backup
+/tema4/.phpunit.result.cache
+/tema4/docker-compose.override.yml
+/tema4/Homestead.json
+/tema4/Homestead.yaml
+/tema4/npm-debug.log
+/tema4/yarn-error.log
+/tema4/.idea
+/tema4/.vscode
